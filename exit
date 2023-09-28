@@ -1,0 +1,35 @@
+[33mcommit e7ed59353118a6b984671607ed673caa69e74444[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: José M Hernández Romero <chemitaxs@gmail.com>
+Date:   Thu Sep 21 13:37:44 2023 +0200
+
+    He creado el fichero ejemplo.txt
+
+[33mcommit 118e97ffb290ea76b1a974a7797e4913f119d084[m
+Author: José M Hernández Romero <chemitaxs@gmail.com>
+Date:   Thu Sep 21 13:36:11 2023 +0200
+
+    He borrado el fichero ejemplo
+
+[33mcommit 2a7adf1ac666aadbb59cfca8a8025ce1f8bc1867[m
+Author: José M Hernández Romero <chemitaxs@gmail.com>
+Date:   Thu Sep 21 13:33:15 2023 +0200
+
+    He modificado el fichero ejemplo.txt
+
+[33mcommit c3eb3f6762a88ee3a0e1e5515ea0632a2bbf5419[m
+Author: José M Hernández Romero <chemitaxs@gmail.com>
+Date:   Thu Sep 21 13:25:41 2023 +0200
+
+    He modificado el fichero ejemplo.txt
+
+[33mcommit b71409f89e0c3da2a8e08c7ca136c05f02e9cbf4[m
+Author: José M Hernández Romero <chemitaxs@gmail.com>
+Date:   Wed Sep 20 11:12:54 2023 +0200
+
+    He creado el fichero ejemplo.txt
+
+[33mcommit 3b418224941be25408810f8fe634061758c3830b[m
+Author: Chemitaxs <144890451+Chemitaxs@users.noreply.github.com>
+Date:   Wed Sep 20 10:46:45 2023 +0200
+
+    Initial commit
