@@ -30,3 +30,8 @@ Ahora procedemos a borrar la rama primera
 ## Ejercicio 4
 
 Creamos la rama segunda
+
+![Imagen](img/Captura10.png "Imagen")
+
+Creamos un fichero para producir un conflicto
+

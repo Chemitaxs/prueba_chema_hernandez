@@ -2,7 +2,7 @@
 
 ## Ejercicio 1
 
-Primero mostramos que tenemos nuestro repositorio hecho mediante nuestr token
+Primero mostramos que tenemos nuestro repositorio hecho mediante nuestro token
 
 ![Imagen](img/Captura.png "Imagen")
 
