@@ -29,9 +29,21 @@ Ahora procedemos a borrar la rama primera
 
 ## Ejercicio 4
 
-Creamos la rama segunda
+Creamos la rama segunda y nos movemos a ella.
 
 ![Imagen](img/Captura10.png "Imagen")
 
-Creamos un fichero para producir un conflicto
+Modificamos el prueba.txt en ambas ramas para que se pueda crear el conflicto.
+
+![Imagen](img/Captura11.png "Imagen")
+
+Ahora usamos el comando merge para ver como no deja fuisonarlas al tener conflicto.
+
+![Imagen](img/Captura12.png "Imagen")
+
+Ahora resolvemos el conflicto que hay entre las dos. Y hacemos el commit para guardar los cambios.
+
+![Imagen](img/Captura13.png "Imagen")
+
+Ahora solo falta subir la rama segunda al repositorio remoto de la siguiente manera.
 
