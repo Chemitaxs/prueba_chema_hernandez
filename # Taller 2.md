@@ -29,7 +29,7 @@ Otro fichero Markdown:
 
 
 Una imagen:  
-![Imagen](img/Captura.png "Imagen")
+![Imagen](img/Captura.PNG "Imagen")
 
 Una tabla:  
 
